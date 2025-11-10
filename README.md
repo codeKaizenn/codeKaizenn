@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @codeKaizenn
 - 👀 I’m interested in learning web Development and software development.
-- 🌱 I’m currently learning Javascript.
 -  You can reach me via mail karanr512004@gmail.com
 
 <!---
